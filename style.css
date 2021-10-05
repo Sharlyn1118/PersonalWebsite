@@ -1,0 +1,45 @@
+#navbar{ 
+    overflow: hidden;
+    background-color: black;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+
+#navbar a{
+    font-size: 20px;
+    padding: 16px;
+color: rgb(255, 255, 255);
+text-align: center;
+
+
+}
+#navbar a:hover{
+    font-size: 22px;
+    color: rgb(0, 10, 75);
+    background-color: rgb(255, 255, 255);
+}
+#home{
+    height: 700px;
+    background: linear-gradient(#ffdefc,#8a8a8a);
+}
+#face{
+    height: 700px;
+    background: linear-gradient(#d4f9fa,#8a8a8a);
+} 
+#videos{
+    height: 700px;
+    background: linear-gradient(#ecd6ff,#8a8a8a);
+} 
+#contacts{
+    height: 700px;
+    background: linear-gradient(#fffdba,#8a8a8a);
+} 
+#contacts img{
+    height: 50px; 
+    width: 50px;
+}
+#chat{
+    height: 700px;
+    background: linear-gradient(#d4dcff,#8a8a8a);
+} 
