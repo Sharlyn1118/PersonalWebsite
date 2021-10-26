@@ -20,11 +20,12 @@ text-align: center;
     background-color: rgb(255, 255, 255);
 }
 #home{
+   
     height: 700px;
     background: linear-gradient(#ffdefc,#8a8a8a);
 }
 #face{
-    height: 700px;
+    height: 1400px;
     background: linear-gradient(#d4f9fa,#8a8a8a);
 } 
 #videos{
@@ -43,3 +44,17 @@ text-align: center;
     height: 700px;
     background: linear-gradient(#d4dcff,#8a8a8a);
 } 
+#apps{
+    height: 700px;
+    background: linear-gradient(#caffc9,#8a8a8a);
+} 
+#home h1{
+    font-size: 50px;
+    font-family: cursive;
+    padding-top: 40px;
+}
+#home img{
+    height: 350px;
+    width: 350px;
+    border-radius: 100px;
+}
